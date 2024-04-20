@@ -1,0 +1,62 @@
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.header{
+    width: 1920px;
+    height: 1190px;
+    top: 3210.67px;
+    padding: 149.33px 85.33px 149.33px 85.33px;
+    gap: 106.67px;
+    opacity: 0px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: auto; 
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: left; 
+    height: auto; 
+}
+
+.projects {
+    width: 152px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 21.33px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;    
+}
+
+.port {
+    width: 1024px;
+    height: 77px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 76.8px;
+    text-align: left;        
+}
+
+.btn {
+    width: 251.67px;
+    height: 74.67px;
+    padding: 13.33px 21.33px;
+    gap: 16px;
+    border-radius: 10.67px 0px 0px 0px;
+    opacity: 0px;
+    background: #E62872;
+}
